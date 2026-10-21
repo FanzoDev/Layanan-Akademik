@@ -1,13 +1,13 @@
 ## Tampilan Dekstop
 
-![Tambah](Capture/dekstop.png)
-![Tambah](Capture/dekstop2.png)
+![dekstop](Capture/dekstop.png)
+![dekstop](Capture/dekstop2.png)
 
 ## Tampilan Mobile
 
-![Kurang](Capture/mobile.png)
-![Kurang](Capture/mobile2.png)
+![mobile](Capture/mobile.png)
+![mobile](Capture/mobile2.png)
 
 ## Tampilan Pelayanan
 
-![Kali](Capture/pilihan_layanan.png)
+![mobile](Capture/pilihan_layanan.png)
