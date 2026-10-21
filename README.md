@@ -14,4 +14,4 @@
 
 ## Tampilan Inspect
 
-![layanan](Capture/inspect.png)
+![inspect](Capture/inspect.png)
