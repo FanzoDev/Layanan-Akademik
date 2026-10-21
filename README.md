@@ -10,4 +10,8 @@
 
 ## Tampilan Pelayanan
 
-![mobile](Capture/pilihan_layanan.png)
+![layanan](Capture/pilihan_layanan.png)
+
+## Tampilan Inspect
+
+![layanan](Capture/inspect.png)
