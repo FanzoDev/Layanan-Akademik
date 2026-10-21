@@ -1,15 +1,13 @@
-## Tampilan Pertambahan
+## Tampilan Dekstop
 
-![Tambah](Capture/tambah.png)
+![Tambah](Capture/dekstop.png)
+![Tambah](Capture/dekstop2.png)
 
-## Tampilan Pengurangan
+## Tampilan Mobile
 
-![Kurang](Capture/kurang.png)
+![Kurang](Capture/mobile.png)
+![Kurang](Capture/mobile2.png)
 
-## Tampilan Perkalian
+## Tampilan Pelayanan
 
-![Kali](Capture/kali.png)
-
-## Tampilan Pembagian
-
-![Bagi](Capture/bagi.png)
+![Kali](Capture/pilihan_layanan.png)
